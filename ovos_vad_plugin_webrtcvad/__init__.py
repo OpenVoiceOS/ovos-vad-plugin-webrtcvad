@@ -11,6 +11,6 @@ class WebRTCVAD(VADEngine):
 
     def is_silence(self, chunk):
         # return True or False
-        return self.vad.is_speech(chunk, self.sample_rate)
+        return not self.vad.is_speech(chunk, self.sample_rate)
 
 
