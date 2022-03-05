@@ -12,7 +12,7 @@ setup(
     author_email='jarbasai@mailfence.com',
     license='Apache-2.0',
     packages=['ovos_vad_plugin_webrtcvad'],
-    install_requires=["ovos-plugin-manager>=0.0.11a4",
+    install_requires=["ovos-plugin-manager>=0.0.11",
                       "webrtcvad"],
     zip_safe=True,
     classifiers=[
