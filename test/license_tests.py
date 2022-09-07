@@ -23,7 +23,7 @@ allow_unknown = False
 allow_unlicense = True
 allow_ambiguous = False
 
-pkg_name = "ovos-phal-plugin-mk2"
+pkg_name = "ovos-vad-plugin-webrtcvad"
 
 
 class TestLicensing(unittest.TestCase):
