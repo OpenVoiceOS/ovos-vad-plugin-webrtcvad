@@ -1,5 +1,9 @@
 # Changelog
 
+## [V0.0.1a2](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/V0.0.1a2) (2023-04-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/V0.0.1a1...V0.0.1a2)
+
 ## [V0.0.1a1](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/V0.0.1a1) (2022-09-08)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/26b291c6f64bbfcfe3a173d2f524270ff4213bca...V0.0.1a1)
