@@ -8,3 +8,6 @@ on:
 jobs:
   build_tests:
     uses: OpenVoiceOS/gh-automations/.github/workflows/build-tests.yml@dev
+    with:
+      install_extras: "test"
+      test_path: "test"
