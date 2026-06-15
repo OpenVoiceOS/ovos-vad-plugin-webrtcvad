@@ -13,8 +13,6 @@ import wave
 
 import pytest
 
-ovoscope = pytest.importorskip("ovoscope")
-
 FIXTURE = os.path.join(os.path.dirname(__file__), "fixtures", "command.wav")
 
 # webrtcvad requires 10/20/30 ms frames at 8/16/32 kHz, 16-bit signed PCM.
