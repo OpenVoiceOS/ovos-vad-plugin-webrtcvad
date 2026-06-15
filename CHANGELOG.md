@@ -1,20 +1,16 @@
 # Changelog
 
-## [V0.0.1a2](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/V0.0.1a2) (2023-04-09)
+## [0.0.3a1](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a1) (2026-06-15)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/V0.0.1a1...V0.0.1a2)
-
-## [V0.0.1a1](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/V0.0.1a1) (2022-09-08)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/26b291c6f64bbfcfe3a173d2f524270ff4213bca...V0.0.1a1)
-
-**Fixed bugs:**
-
-- fix automations / copy pasta erros [\#2](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/2) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/V0.0.1...0.0.3a1)
 
 **Merged pull requests:**
 
-- Add PyPI and versioning automation scripts and workflows [\#1](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/1) ([NeonDaniel](https://github.com/NeonDaniel))
+- test: ovoscope listener e2e \(real webrtcvad VAD\) [\#14](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/14) ([JarbasAl](https://github.com/JarbasAl))
+- chore\(deps\): update dependency ovos-plugin-manager to v2 [\#11](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/11) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update dependency python to 3.14 [\#6](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/6) ([renovate[bot]](https://github.com/apps/renovate))
+- chore: Configure Renovate [\#5](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
+- fix: compatibility with ovos-plugin-manager 1.X.X [\#4](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/4) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
