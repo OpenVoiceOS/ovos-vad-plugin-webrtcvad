@@ -24,12 +24,16 @@ classifiers = [
 ]
 dependencies = [
     "ovos-plugin-manager>=2.1.0,<3.0.0",
-    "webrtcvad",
+    "webrtcvad-wheels",
 ]
 
 [project.optional-dependencies]
-dev = ["pytest", "pytest-cov"]
-test = ["pytest", "ovoscope"]
+dev = ["pytest<9", "pytest-cov"]
+test = [
+    "pytest<9",
+    "ovoscope>=0.19.0a1,<1.0.0",
+    "ovos-dinkum-listener",
+]
 
 [project.urls]
 Homepage = "https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad"
