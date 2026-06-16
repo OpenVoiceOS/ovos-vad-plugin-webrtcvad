@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.3a3](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a3) (2026-06-16)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/0.0.3a2...0.0.3a3)
+
+**Merged pull requests:**
+
+- fix: require ovos-plugin-manager\>=2.1.0 for opm.\* entry points and cap ovos-\* deps at next major [\#18](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/18) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.0.3a2](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a2) (2026-06-16)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/0.0.3a1...0.0.3a2)
