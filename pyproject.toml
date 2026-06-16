@@ -39,7 +39,7 @@ test = [
 Homepage = "https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad"
 Repository = "https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad"
 
-[project.entry-points."ovos.plugin.VAD"]
+[project.entry-points."opm.VAD"]
 "ovos-vad-plugin-webrtcvad" = "ovos_vad_plugin_webrtcvad:WebRTCVAD"
 
 [tool.setuptools]
