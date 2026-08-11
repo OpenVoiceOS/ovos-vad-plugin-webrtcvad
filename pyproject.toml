@@ -30,7 +30,7 @@ dependencies = [
 [project.optional-dependencies]
 dev = ["pytest<9", "pytest-cov"]
 test = [
-    "pytest<9",
+    "pytest<10",
     "ovoscope>=0.19.0a1,<1.0.0",
     "ovos-dinkum-listener",
 ]
