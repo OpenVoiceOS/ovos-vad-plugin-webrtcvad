@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.3a4](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a4) (2026-08-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/0.0.3a3...0.0.3a4)
+
+**Merged pull requests:**
+
+- docs: rewrite README in Simplified Technical English [\#22](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/22) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.0.3a3](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a3) (2026-06-16)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/0.0.3a2...0.0.3a3)
