@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.3a5](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a5) (2026-09-26)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/0.0.3a4...0.0.3a5)
+
+**Merged pull requests:**
+
+- Update dependency pytest to v9 - abandoned [\#15](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/pull/15) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.0.3a4](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/tree/0.0.3a4) (2026-08-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad/compare/0.0.3a3...0.0.3a4)
